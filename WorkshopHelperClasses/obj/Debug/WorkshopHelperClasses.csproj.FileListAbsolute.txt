@@ -1,0 +1,5 @@
+C:\Users\pmu6256\Source\Repos\GapBilling-UnitTestingWorkshop\WorkshopLibrary.Test\WorkshopHelperClasses\bin\Debug\WorkshopHelperClasses.dll
+C:\Users\pmu6256\Source\Repos\GapBilling-UnitTestingWorkshop\WorkshopLibrary.Test\WorkshopHelperClasses\bin\Debug\WorkshopHelperClasses.pdb
+C:\Users\pmu6256\Source\Repos\GapBilling-UnitTestingWorkshop\WorkshopLibrary.Test\WorkshopHelperClasses\obj\Debug\WorkshopHelperClasses.csprojResolveAssemblyReference.cache
+C:\Users\pmu6256\Source\Repos\GapBilling-UnitTestingWorkshop\WorkshopLibrary.Test\WorkshopHelperClasses\obj\Debug\WorkshopHelperClasses.dll
+C:\Users\pmu6256\Source\Repos\GapBilling-UnitTestingWorkshop\WorkshopLibrary.Test\WorkshopHelperClasses\obj\Debug\WorkshopHelperClasses.pdb
